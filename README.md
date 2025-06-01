@@ -22,5 +22,5 @@ npm start
 Backend
 ```bash
 pip install --no-cache-dir -r requirements.txt
-python app.py
+python3 app.py
 ```
